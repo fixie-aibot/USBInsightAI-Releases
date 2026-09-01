@@ -1,7 +1,7 @@
 {
-  "notes": "USB Insight AI v1.2.0 - verified Windows installer release",
-  "version": "1.2.0",
-  "sha256": "5F67472AA65CDA752680703F4B16F0DD4D7558C181D1422A5FAC4CC951AE0318",
-  "release_url": "https://github.com/fixie-aibot/USBInsightAI-Releases/releases/tag/v1.2.0",
-  "download_url": "https://github.com/fixie-aibot/USBInsightAI-Releases/releases/download/v1.2.0/USBInsightAI_Setup_v1.2.0.exe"
+  "version": "1.2.1",
+  "download_url": "https://github.com/fixie-aibot/USBInsightAI-Releases/releases/download/v1.2.1/USBInsightAI_Setup_v1.2.1.exe",
+  "release_url": "https://github.com/fixie-aibot/USBInsightAI-Releases/releases/tag/v1.2.1",
+  "notes": "USB Insight AI v1.2.1 - fast unchanged rescans and changed-path review highlighting",
+  "sha256": "c17c1f96decf7899c02e809dba0435e08fc602ee5a0bec7e7f2afdb0e9bdacf9"
 }
